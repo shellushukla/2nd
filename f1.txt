@@ -4,5 +4,9 @@ welcome to f1
   pasta
   samosa
   laddo
-  
+   
+   pani-puri
+   pizza 
+   burger
+   momos
 thank you
